@@ -1,0 +1,9 @@
+
+    <!-- tr09 -->
+
+    <!-- Shop -->
+    <string name="shop_message_deactivated">L'hôte a désactivé la boutique\nLa discussion sera fermée</string>
+    <string name="shop_user_me">Moi</string>
+    <string name="shop_talk_enter_host">L'hôte est entré</string>
+    <string name="shop_talk_enter_guest">Un nouvel invité est entré</string>
+    <string name="shop_talk_leave_host">L'hôte est parti</string>

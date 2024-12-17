@@ -1,0 +1,7 @@
+<!-- tr05 -->
+
+<!-- Notification -->
+<string name="notification_title">Notification</string>
+
+<!-- Audio Talk -->
+<string name="talk_alone">Microphones are available for two or more participants,\nnot for just one.</string>

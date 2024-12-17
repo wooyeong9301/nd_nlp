@@ -1,0 +1,11 @@
+
+    <!-- tr03 -->
+
+    <!-- Audio Talk -->
+    <string name="talk_expelled_and_exit">Вы были удалены из чата по просьбе управляющего чата.</string>
+
+    <!-- Auto Translation -->
+    <string name="auto_translation_guide">Нажмите кнопку, чтобы включить автоматический перевод!</string>
+    
+    
+    
